@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d48adccc78f13041af5438613ec923d, type: 3}
+  m_Name: PlayerInputSettings
+  m_EditorClassIdentifier: 
+  UP: 119
+  DOWN: 115
+  LEFT: 97
+  RIGHT: 100
+  SHOOT: 323
+  ALTERNATIVESHOOT: 324
+  RELOAD: 114
+  ABILITY_1: 49
+  ABILITY_2: 50
+  ABILITY_3: 51
+  ABILITY_4: 52
+  ABILITY_5: 113
+  ABILITY_6: 101
+  INVENTORY: 9
+  SWAPEQUIPMENTSET: 120
+  TALENTS: 112
+  PAUSE: 27
+  CONSOLE: 96
+  ENTER: 13

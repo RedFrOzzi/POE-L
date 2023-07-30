@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a003e79049f5eff408e67d9ab9988a18, type: 3}
+  m_Name: CastOnCriticalHitSM
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Cast On Critical Attack Hit
+  <Tier>k__BackingField: 0
+  <Description>k__BackingField: Cast spell, when you hit a target with critical strike
+    with weapon.
+  ImplicitModTier: 5
+  activationCooldown: 0.1

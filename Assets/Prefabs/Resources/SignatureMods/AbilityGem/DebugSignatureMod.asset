@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18c2e634d42238e44b0ba04290571e25, type: 3}
+  m_Name: DebugSignatureMod
+  m_EditorClassIdentifier: 
+  <ID>k__BackingField: 
+  <Name>k__BackingField: Debug
+  <EquipmentSlot>k__BackingField: 6
+  <EquipmentType>k__BackingField: 38
+  <Tier>k__BackingField: 0
+  <Description>k__BackingField: Debug

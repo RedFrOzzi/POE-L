@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e485d536f40466747a37671a1acbf0c1, type: 3}
+  m_Name: AssaultRifleMK2SM
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Assault Rifle Explosive
+  <Tier>k__BackingField: 0
+  <Description>k__BackingField: Bullets can not pierce or chain, but explode on impact,
+    breaks to pieces, damaging targets behind. Amount of pieces is equal to chains
+    and pierce amount

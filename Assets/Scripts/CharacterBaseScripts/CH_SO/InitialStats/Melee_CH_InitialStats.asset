@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c01aad2f2207064ebeebcedaf5fbf8c, type: 3}
+  m_Name: Melee_CH_InitialStats
+  m_EditorClassIdentifier: 
+  <InitialStats>k__BackingField:
+    CharacterType: 1
+    BaseMaxDamage: 10
+    BaseMinDamage: 10
+    BaseAmmoCapacity: 10
+    BaseAttackSpeed: 1
+    BaseCritChance: 0
+    BaseCritMultiplier: 100
+    BaseSpellCritMultiplier: 100
+    BaseBuffPower: 1
+    BaseBuffDurationAmplifier: 1
+    BaseAccuracy: 1000
+    FlatAccuracyToPercent:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0.0035868615
+        outSlope: 0.0035868615
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 70.55174
+        value: 0.25305933
+        inSlope: 0.0027667342
+        outSlope: 0.0027667342
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.14343444
+      - serializedVersion: 3
+        time: 1000
+        value: 1
+        inSlope: 0.0003780773
+        outSlope: 0.0003780773
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.21097676
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    BaseSpreadAngle: 1
+    ProjectileAmount: 1
+    PierceAmount: 0
+    ChainsAmount: 0
+    AddedSpellProjectileAmount: 0
+    BaseHP: 30
+    BaseHPRegeneration: 0
+    BaseMana: 20
+    BaseManaRegeneration: 0.5
+    BaseArmor: 0
+    BaseMagicResist: 0
+    BaseHealingAmplifier: 1
+    FlatArmorToPercent:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: -1000
+        value: -50
+        inSlope: 0.008959271
+        outSlope: 0.008959271
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0.492351
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0.13989758
+        outSlope: 0.13989758
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.116472356
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 200
+        value: 50
+        inSlope: 0.13406155
+        outSlope: 0.13406155
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.3958333
+        outWeight: 0.11458336
+      - serializedVersion: 3
+        time: 1000
+        value: 90
+        inSlope: 0.0073251883
+        outSlope: 0.0073251883
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.265625
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    FlatMResistToPercent:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: -1000
+        value: -50
+        inSlope: 0.008959271
+        outSlope: 0.008959271
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0.492351
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0.13989758
+        outSlope: 0.13989758
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.116472356
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 200
+        value: 50
+        inSlope: 0.13406155
+        outSlope: 0.13406155
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.3958333
+        outWeight: 0.11458336
+      - serializedVersion: 3
+        time: 1000
+        value: 90
+        inSlope: 0.0073251883
+        outSlope: 0.0073251883
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.265625
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    BaseCollectorRadius: 1
+    BaseMovementSpeed: 0.7
+    BaseReloadSpeed: 1
+    BaseAttackRange: 2
+    BaseProjectileSpeed: 15
+    BaseGlobalAOEMultiplier: 1
+    BaseExperienceMultiplier: 1
+    BaseGoldGainMultipler: 1

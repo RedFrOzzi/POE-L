@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98771a2350fe76846878bbef5207a014, type: 3}
+  m_Name: BookIgniteSM
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Fire Book
+  <Tier>k__BackingField: 0
+  <Description>k__BackingField: 'Enhances your spells, increase its damage and cooldown
+    reduction.
+
+    Add Ignite Effect to your spells.'
+  cooldownRecoveryPercent: 10
+  magicDamagePercent: 20
+  maxStacks: 5
+  percentDamageToIgnite: 0.3
+  duration: 5

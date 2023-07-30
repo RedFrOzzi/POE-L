@@ -1,0 +1,1 @@
+public enum CharacterType {Player, Melee, Ranged, Special, Elite, Boss, Dummy};
